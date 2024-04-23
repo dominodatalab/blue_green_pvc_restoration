@@ -1,0 +1,16 @@
+[
+    {
+        "vs_name": "workspace-661eaf0ea8ad693ecbabdcff",
+        "vsc_name": "workspace-661eaf0ea8ad693ecbabdcff",
+        "aws_snapshot_name": "snap-0e8d846b296163474",
+        "ready_to_use": true,
+        "restore_size": "10Gi"
+    },
+    {
+        "vs_name": "workspace-662125295bc1840c9cce303e",
+        "vsc_name": "workspace-662125295bc1840c9cce303e",
+        "aws_snapshot_name": "snap-0bb974849066865ef",
+        "ready_to_use": true,
+        "restore_size": "10Gi"
+    }
+]

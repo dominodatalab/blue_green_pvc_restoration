@@ -12,8 +12,6 @@ We will describe what you need to install on the K8s cluster in both the Blue an
 In the Blue/Green Domino install the K8s and AWS components. The details can be read at this [link](https://aws.amazon.com/blogs/containers/using-amazon-ebs-snapshots-for-persistent-storage-with-your-amazon-eks-cluster-by-leveraging-add-ons/)
 We provide the full instructions below.
 
-A full working step by step tutorial on how to perform the steps manually  is available internally in our
-[Wiki](https://dominodatalab.atlassian.net/wiki/spaces/CS/pages/2541191169/Restoring+workspace+from+a+snapshot+from+across+Domino+installations+PoC+for+Blue+Green+Upgrades)
 
 ### Blue Environment
 
